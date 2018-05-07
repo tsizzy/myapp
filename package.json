@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "a practice app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "noob",
+    "learning",
+    "how",
+    "to",
+    "node"
+  ],
+  "author": "Katherine Mejia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
